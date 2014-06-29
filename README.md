@@ -4,10 +4,10 @@ A simple jQuery-based script for testing responsive behaviour of websites in one
 
 ###Devices
 ----
-It allows to test for popular devices of 2014, here is a complee list of devices 
+It allows to test for popular devices of 2014, here is a complete list of devices 
 
 | **Devices**      		| **Layouts**     |
-| :--------------------	|:---------------:|
+| :--------------------	|:--------------- |
 | Low End Android Phone | Only Portrait   | 
 | iPhone 3/4/5 		    | Portrait Layout |
 | iPhone 3/4 		    | Landscape Layout|
